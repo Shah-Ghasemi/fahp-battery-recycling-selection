@@ -18,12 +18,12 @@ The methodology is implemented in Python and includes consistency checking, crit
 - Hierarchical decision structure (AHP)
 
 ## 📂 Project Structure
-. ├── src/                # Python implementation
-├── data/               # Expert input data (Excel files) 
-├── results/            # Output results (charts, weights)
-├── docs/               # AHP structure and documentation 
-├── requirements.txt    # Required Python libraries
-└── README.md
+- ├── src/                # Python implementation
+- ├── data/               # Expert input data (Excel files) 
+- ├── results/            # Output results (charts, weights)
+- ├── docs/               # AHP structure and documentation 
+- ├── requirements.txt    # Required Python libraries
+- └── README.md
 ## ⚙️ Requirements
 Install dependencies using:
 
