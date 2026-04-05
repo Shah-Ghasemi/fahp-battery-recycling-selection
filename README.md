@@ -29,23 +29,19 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
-▶️ How to Run
-Place input Excel files in the data/ folder
-Run the main script:
-▶️ How to Run
+## ▶️ How to Run
 Place input Excel files in the data/ folder
 Run the main script:
 python src/fahp_main.py
-📊 Outputs
+## 📊 Outputs
 Criteria weights
 Consistency ratio
 Ranking results (not publicly shared)
-⚠️ Note
+## ⚠️ Note
 The ranking of alternatives is not included due to the novelty of the compiled methods from systematic literature review.
-📷 AHP Structure
+## 📷 AHP Structure
 See docs/ahp_structure.png
-👤 Author
+## 👤 Author
 Shahrokh Ghasemi
-📄 License
+## 📄 License
 MIT License
