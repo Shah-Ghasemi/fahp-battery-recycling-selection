@@ -29,6 +29,7 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
 ▶️ How to Run
 Place input Excel files in the data/ folder
 Run the main script:
