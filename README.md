@@ -44,7 +44,9 @@ python src/fahp_main.py
 The ranking of alternatives is not included because the compiled methods from the systematic literature review are novel.
 ## 📷 Decision Hierarchy
 The hierarchical decision structure used in the FAHP model is available in:
-docs/ahp_structure.png
+
+`docs/ahp_structure.png`
+
 The structure illustrates the relationship between decision criteria and evaluated alternatives.
 ## 👤 Author
 Shahrokh Ghasemi
