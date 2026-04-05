@@ -41,10 +41,12 @@ python src/fahp_main.py
 - Consistency ratio
 - Ranking results (not publicly shared)
 ### ⚠️ Note
-The ranking of alternatives is not included due to the novelty of the compiled methods from the systematic literature review.
+The ranking of alternatives is not included because the compiled methods from the systematic literature review are novel.
 ## 📷 AHP Structure
 See docs/ahp_structure.png
 ## 👤 Author
 Shahrokh Ghasemi
+Acknowledgment
+This code was developed as part of a collaborative research project on lithium-ion battery recycling technology selection.
 ## 📄 License
 MIT License
