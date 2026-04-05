@@ -46,7 +46,7 @@ The ranking of alternatives is not included because the compiled methods from th
 See docs/ahp_structure.png
 ## 👤 Author
 Shahrokh Ghasemi
-Acknowledgment
+## Acknowledgment
 This code was developed as part of a collaborative research project on lithium-ion battery recycling technology selection.
 ## 📄 License
 MIT License
