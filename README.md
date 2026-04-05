@@ -31,9 +31,11 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 ## ▶️ How to Run
-Place input Excel files in the data/ folder
-Run the main script:
+1. Place input Excel files in the data/ folder
+2. Run the main script:
+```bash
 python src/fahp_main.py
+```
 ## 📊 Outputs
 - Criteria weights
 - Consistency ratio
