@@ -12,11 +12,14 @@ The methodology is implemented in Python and includes consistency checking, crit
 - Provide a structured decision-making framework
 
 ## 🧠 Methodology
-- FAHP 
+- Fuzzy AHP based on established methods from the literature
 - Expert-based pairwise comparisons
 - Consistency ratio calculated using Python
 - Hierarchical decision structure (AHP)
 
+This implementation is informed by a comprehensive review of FAHP methods:
+
+Liu, Y., Eckert, C. M., & Earl, C. (2020).
 ## 📂 Project Structure
 ```text
 project-root
@@ -58,3 +61,7 @@ Shahrokh Ghasemi
 This code was developed as part of a collaborative research project on lithium-ion battery recycling technology selection.
 ## 📄 License
 MIT License
+## 📚 References
+Liu, Y., Eckert, C. M., & Earl, C. (2020). 
+A review of fuzzy AHP methods for decision-making with subjective judgements. 
+Expert Systems with Applications, 161, 113738.
