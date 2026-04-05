@@ -28,8 +28,7 @@ The methodology is implemented in Python and includes consistency checking, crit
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt
----
+pip install -r requirements.txt ---
 ## ▶️ How to Run
 Place input Excel files in the data/ folder
 Run the main script:
