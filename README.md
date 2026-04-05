@@ -29,6 +29,7 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+...
 ## ▶️ How to Run
 Place input Excel files in the data/ folder
 Run the main script:
@@ -37,8 +38,8 @@ python src/fahp_main.py
 Criteria weights
 Consistency ratio
 Ranking results (not publicly shared)
-## ⚠️ Note
-The ranking of alternatives is not included due to the novelty of the compiled methods from systematic literature review.
+⚠️ Note
+The ranking of alternatives is not included due to the novelty of the compiled methods from the systematic literature review.
 ## 📷 AHP Structure
 See docs/ahp_structure.png
 ## 👤 Author
