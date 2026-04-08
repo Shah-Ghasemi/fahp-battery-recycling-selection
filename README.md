@@ -1,5 +1,13 @@
 # Fuzzy AHP for Lithium-Ion Battery Recycling Technology Selection
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Research%20Project-orange)
+![Method](https://img.shields.io/badge/Method-FAHP-purple)
+![Domain](https://img.shields.io/badge/Domain-Supply%20Chain-blueviolet)
+![Focus](https://img.shields.io/badge/Focus-Sustainability-brightgreen)
+
+
 ## 📌 Overview
 This project presents a Fuzzy Analytic Hierarchy Process (FAHP) model for evaluating and prioritizing lithium-ion battery recycling technologies based on expert judgments.
 
