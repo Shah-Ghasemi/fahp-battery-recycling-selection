@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Research%20Project-orange)
 ![Method](https://img.shields.io/badge/Method-FAHP-purple)
-![Domain](https://img.shields.io/badge/Domain-Supply%20Chain-blueviolet)
+![Domain](https://img.shields.io/badge/Domain-Circular%20Economy-blueviolet)
 ![Focus](https://img.shields.io/badge/Focus-Sustainability-brightgreen)
 
 
